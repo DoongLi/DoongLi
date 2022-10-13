@@ -12,5 +12,6 @@
 - higher-level scene understanding
 
 👯 I'm looking to collaborate on Object Visual SLAM and Related areas.
+💭 I'm also looking for a phd degree.
 
 ![](https://img.shields.io/badge/WeChat-Gaussiansphere-brightgreen) [![Blog Badge](https://img.shields.io/badge/zhihu-%E9%AB%98%E6%96%AF%E7%90%83-blue)](https://www.zhihu.com/people/li.dong) [![Blog Badge](https://img.shields.io/badge/Gmail-lidong8421bcd%40gmail.com-orange)](mailto:lidong8421bcd@gmail.com) [![Blog Badge](https://img.shields.io/badge/SUSTech%20MAIL-lid%40mail.sustech.edu.cn-red)](mailto:lid@mail.sustech.edu.cn)
