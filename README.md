@@ -2,7 +2,7 @@
 
 ✨**Let's explore some unpredictable things together!**
 
-💼Currently I'm a Research Assistant in AMASLAB of [Southern University of Science and Technology(**SUSTech**)](https://www.sustech.edu.cn/en/), supervised by Prof. [Zhiyun Lin](h[Zhiyun Lin](https://faculty.sustech.edu.cn/linzy/)) .  Before that, I received the B. Eng. degree from the [School of Computer and Information Engineering](http://ci.hfut.edu.cn/), [Hefei University of Technology](http://www.hfut.edu.cn/) in June 2022, supervised by Prof. [Jie Li](http://ci.hfut.edu.cn/2020/1209/c11505a245824/page.htm) and Prof. [Qiyue Li](http://ea.hfut.edu.cn/info/1050/1443.htm)
+💼Currently I'm a Research Assistant in AMASLAB of [Southern University of Science and Technology(**SUSTech**)](https://www.sustech.edu.cn/en/), supervised by Prof. [Zhiyun Lin](https://scholar.google.com/citations?user=ic9y2dIAAAAJ&hl=zh-CN&oi=ao) .  Before that, I received the B. Eng. degree from the [School of Computer and Information Engineering](http://ci.hfut.edu.cn/), [Hefei University of Technology](http://www.hfut.edu.cn/) in June 2022, supervised by Prof. [Jie Li](http://ci.hfut.edu.cn/2020/1209/c11505a245824/page.htm) and Prof. [Qiyue Li](http://ea.hfut.edu.cn/info/1050/1443.htm)
 
 🔭 I’m currently focused on
 
