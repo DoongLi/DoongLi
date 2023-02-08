@@ -21,8 +21,7 @@ Before that, I received the B. Eng. degree from the [School of Computer and Info
 
 > :question: What is Object-level SLAM? *Based on the definition of SLAM, Object-level SLAM knowing **what** and **where** objects are in the surrounding environment for better scene understanding*. Object-level SLAM System is more suitable for robot tasks in real scenes, and it is an excellent way to connect CV and Robotics.
 
-[![Blog Badge](https://img.shields.io/badge/Linkedin-Dong%20Li-brightgreen)](https://www.linkedin.com/in/dong-li-9796b2245/) [![Blog Badge](https://img.shields.io/badge/Gmail-lidong8421bcd%40gmail.com-orange)](mailto:lidong8421bcd@gmail.com) [![Blog Badge](https://img.shields.io/badge/SUSTech%20MAIL-lid%40mail.sustech.edu.cn-red)]((mailto:lid@mail.sustech.edu.cn))[![Blog Badge](https://img.shields.io/badge/zhihu-%E9%AB%98%E6%96%AF%E7%90%83-blue)](https://www.zhihu.com/people/li.dong) ![](https://img.shields.io/badge/WeChat-Gaussiansphere-brightgreen)
-
+[![Blog Badge](https://img.shields.io/badge/Linkedin-Dong%20Li-brightgreen)](https://www.linkedin.com/in/dong-li-9796b2245/) [![Blog Badge](https://img.shields.io/badge/Gmail-lidong8421bcd%40gmail.com-orange)](mailto:lidong8421bcd@gmail.com) [![Blog Badge](https://img.shields.io/badge/SUSTech%20MAIL-lid%40mail.sustech.edu.cn-red)](mailto:lid@mail.sustech.edu.cn)[![Blog Badge](https://img.shields.io/badge/zhihu-%E9%AB%98%E6%96%AF%E7%90%83-blue)](https://www.zhihu.com/people/li.dong) ![](https://img.shields.io/badge/WeChat-Gaussiansphere-brightgreen)
 
 
 
