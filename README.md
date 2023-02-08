@@ -4,7 +4,7 @@
 
 💼I'm a Research Assistant from AMAS-LAB in [the Department of Electronic and Electrical Engineering](https://eee.sustech.edu.cn/?lang=en)  at [Southern University of Science and Technology(**SUSTech**)](https://www.sustech.edu.cn/en/), supervised by Prof. [Zhiyun Lin](https://scholar.google.com/citations?user=ic9y2dIAAAAJ&hl=zh-CN&oi=ao). I'm broadly interested in the overlap between robotics and computer vision .Specifically, my research focuses on robust vslam system, **object-level slam**.
 
-Before that, I received the B. Eng. degree from the [School of Computer and Information Engineering](http://ci.hfut.edu.cn/), [Hefei University of Technology](http://www.hfut.edu.cn/) in June 2022, supervised by Prof. [Jie Li](http://ci.hfut.edu.cn/2020/1209/c11505a245824/page.htm) and Prof. [Qiyue Li](http://ea.hfut.edu.cn/info/1050/1443.htm). During my undergraduate years, I was the founder of the robotics team of Hefei University of Technology and participated in [RoboMaster Robotics Competition]([RoboMaster Robotics Competition](https://www.robomaster.com/en-US)), from2019 to 2021.
+Before that, I received the B. Eng. degree from the [School of Computer and Information Engineering](http://ci.hfut.edu.cn/), [Hefei University of Technology](http://www.hfut.edu.cn/) in June 2022, supervised by Prof. [Jie Li](http://ci.hfut.edu.cn/2020/1209/c11505a245824/page.htm) and Prof. [Qiyue Li](http://ea.hfut.edu.cn/info/1050/1443.htm). During my undergraduate years, I was the founder of the robotics team of Hefei University of Technology and participated in [RoboMaster Robotics Competition](https://www.robomaster.com/en-US)), from2019 to 2021.
 
 🔭 I’m currently focused on
 
