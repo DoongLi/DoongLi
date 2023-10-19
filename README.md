@@ -1,4 +1,4 @@
-### Hi! 👏, I'm Dong Li (李东)
+### Hi! 👏, I'm Damon Dong Li (李东)
 
 ✨**Let's explore some unpredictable things together!**
 
