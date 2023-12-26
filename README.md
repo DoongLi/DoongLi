@@ -1,4 +1,4 @@
-### Hi! 👏, I'm Stefan Dong Li (李东)
+### Hi! 👏, I'm Frankie Dong Li (李東)
 
 ✨**Let's explore some unpredictable things together!**
 
